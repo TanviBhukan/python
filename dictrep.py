@@ -10,4 +10,3 @@ else:
  print(check_key, " is not Present.")
  dict[check_key]=check_value
  print("Updated dictionary : ",dict)
-S
