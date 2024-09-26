@@ -18,7 +18,7 @@ from numpy import array
 list1 = [1, 5, 7]
 list2 = [3, 2, 1]
 
-y = array(liSst1)
+y = array(list1)
 z = array(list2)
 
 print("\nElement-wise sum of the said lists (as arrays):")
